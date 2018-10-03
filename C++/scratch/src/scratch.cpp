@@ -13,5 +13,6 @@
         X x("a"),y("b");
         x(y);
        y(x);
+       cout << "This is new code.";
         return 0;
     }
